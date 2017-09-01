@@ -1,2 +1,4 @@
 # hello-world
-This is my first repositoryused to help learn how to share
+This is my first repository used to help learn how to share
+
+My name is Nick
